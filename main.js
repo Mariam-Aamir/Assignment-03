@@ -1,5 +1,5 @@
 "use strict";
-//Assingment 03
+//Assignment 03
 Object.defineProperty(exports, "__esModule", { value: true });
 //storing a personName in variable
 let personName = "Mariam Aamir";

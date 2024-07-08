@@ -1,4 +1,4 @@
-//Assingment 03
+//Assignment 03
 
 //storing a personName in variable
 
